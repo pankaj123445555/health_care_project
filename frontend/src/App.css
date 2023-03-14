@@ -1,0 +1,26 @@
+#App {
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  background-image: url("../background.jpg");
+  background-size: cover;
+  background-position: center;
+  color: black;
+  justify-content: center;
+}
+#main-page
+{
+  border: 2px solid white;
+    height: 517px;
+    width: 500px;
+}
+#login-signup{
+   display: flex;
+    justify-content: space-between;
+    font-size: 33px;
+    font-family: sans-serif;
+    color: brown;
+}
+#diet{
+  border: 2px solid white;
+}
